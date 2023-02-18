@@ -1,0 +1,17 @@
+<html>
+    <head>
+    <title>Name</title>
+   
+    </head>
+   <body>
+    <fieldset>
+    <legend><b>Name</b></legend>
+    <form method="POST" action="nameCheck.php" enctype="">
+            <input type="text" name="username" value=""/> <br><hr>
+            
+            <input type="submit" name="submit" value="Submit"/>
+    </form>
+    </fieldset>
+
+</body>
+</html>
