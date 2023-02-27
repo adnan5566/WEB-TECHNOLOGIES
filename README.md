@@ -1,1 +1,1 @@
-# learning-web-technologies-spring2022-2023-sec-F
+# learning-web-technologies-spring2022-2023-sec-f
