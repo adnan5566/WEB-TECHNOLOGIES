@@ -1,0 +1,64 @@
+body {
+  background-color: rgb(78, 169, 199);
+  font-family: Arial, sans-serif;
+}
+
+form {
+  margin: 0 auto;
+  width: 65%;
+  border: 1px solid #e2e8f0;
+  padding: 20px;
+  background-color: skyblue;
+}
+  fieldset {
+    background-color: whitesmoke;
+    margin: 20px auto;
+    width: 50%;
+    border: 1px solid maroon;
+    padding: 10px;
+    border-radius: 5px;
+    }
+  
+    legend {
+        font-size: 24px;
+        font-weight: bold;
+        color: darkslategray;
+        margin-bottom: 20px;
+      }
+      
+  hr {
+    border: none;
+    border-top: 1px solid maroon;
+    margin: 20px 0;
+  }
+  
+  a {
+    color: #0077cc;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  p {
+    margin-bottom: 10px;
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  
+  button {
+    background-color: #0077cc;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 20px;
+  }
+  
+  button:hover {
+    background-color: #005ea2;
+  }
+  

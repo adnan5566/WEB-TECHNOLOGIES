@@ -1,0 +1,66 @@
+body {
+  background-color: darkgray;
+  font-family: Arial, sans-serif;
+}
+
+form {
+  margin: 0 auto;
+  width: 65%;
+  border: 1px solid rgb(92, 107, 144);
+  padding: 20px;
+  background-color: skyblue;
+}
+
+
+fieldset {
+    margin: 0 auto;
+    width: 500px;
+    padding: 20px;
+    border: 1px solid white;
+    border-radius: 5px;
+    background-color: rgb(167, 112, 112);
+  }
+  
+  legend {
+    font-size: 28px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: #2d3748;
+  }
+  
+  h1 {
+    font-size: 50px;
+    text-align: center;
+    margin-bottom: 22.5px;
+    color: darkslategrey;
+  }
+  
+  label {
+    display: block;
+    margin-top: 10px;
+    font-size: 18px;
+    font-weight: bold;
+    color: #666;
+  }
+  
+  input[type="text"], input[type="password"] {
+    width: 70%;
+    padding: 10px;
+    border: 1px solid rgb(76, 95, 132);
+    border-radius: 5px;
+    margin-bottom: 15px;
+    color: #2d3748;
+  }
+  
+  input[type="submit"], input[type="reset"] {
+    background-color: rgb(107, 119, 167);
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-right: 10px;
+  }
+  input[type="submit"]:hover, input[type="reset"]:hover {
+    background-color: rgb(36, 76, 106);
+  }

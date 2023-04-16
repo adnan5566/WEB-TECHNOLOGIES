@@ -1,0 +1,44 @@
+body {
+    background-color: skyblue;
+    font-family: Arial, sans-serif;
+  }
+  
+  fieldset {
+    border: 1px solid whitesmoke;
+    padding: 50px;
+    margin: 100px;
+    background-color: honeydew ;
+}
+  
+  h1 {
+    font-size: 2em;
+    color: #4d4d4d;
+    margin-bottom: 0.5em;
+  }
+  
+  h2 {
+    font-size: 1.5em;
+    color: #666666;
+    margin-bottom: 0.5em;
+  }
+  
+  p {
+    font-size: 1.2em;
+    color: #666666;
+    margin-bottom: 1.5em;
+  }
+  
+  button {
+    background-color: #008080;
+    border: none;
+    color: white;
+    padding: 0.5em 1em;
+    font-size: 1.2em;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #006666;
+  }
+  

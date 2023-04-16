@@ -1,0 +1,76 @@
+body {
+    background-color: darkgray;
+    font-family: Arial, sans-serif;
+  }
+  
+  form {
+    margin: 0 auto;
+    width: 65%;
+    border: 1px solid #e2e8f0;
+    padding: 20px;
+    background-color: skyblue;
+  }
+    
+    legend {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    }
+    fieldset {
+      background-color: rgb(171, 119, 119);
+        margin: 20px auto;
+        width: 50%;
+        border: 1px solid maroon;
+        padding: 10px;
+        border-radius: 5px;
+        }
+    
+    label {
+    display: block;
+    margin-bottom: 5px;
+    }
+    
+    input[type="text"],
+    input[type="email"],
+    textarea {
+    width: 100%;
+    padding: 5px;
+    border: 1px solid wheat;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    }
+    
+    textarea {
+    resize: vertical;
+    }
+    
+    input[type="submit"],
+    input[type="reset"] {
+    background-color: #4CAF50;
+    border: none;
+    color: whitesmoke;
+    padding: 10px 20px;
+    text-decoration: none;
+    margin-right: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    }
+    
+    input[type="reset"] {
+    background-color: red;
+    }
+    
+    input[type="submit"]:hover,
+    input[type="reset"]:hover {
+    background-color: lightgreen;
+    }
+    
+    p {
+    margin-bottom: 20px;
+    font-size: 18px;
+    }
+    
+    
+    
+    
+    
